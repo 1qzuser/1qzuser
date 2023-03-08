@@ -51,9 +51,6 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=1qzuser&repo=vuepress_blog&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-<a href="https://github.com/1qzuser/Upgraded">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=1qzuser&repo=Upgraded&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
