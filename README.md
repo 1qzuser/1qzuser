@@ -16,12 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Edu+VIC+WA+NT+Beginner&size=28&width=600&lines=To+see+the+world+as+it+is+and+to+love+it.)](https://github.com/frontendBoy-Wang)
-
 [点击即可到达我的博客](https://www.easonchan.me)
-
-当然你也可以通过以下方式找到我...
 
 - [知乎](https://www.zhihu.com/people/1qzuser)
 
